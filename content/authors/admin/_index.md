@@ -46,7 +46,7 @@ profiles:
 interests:
   - AI Safety
   - Interpretability
-  - Reinforcement Learning
+  - Anthropomorphic Misalignment
   - Science of Deep Learning
 
 education:
@@ -107,6 +107,6 @@ awards:
 
 Hi, I'm Lukas!
 
-I am currently pursuing a PhD in Computer Science at [ETH Zurich](https://ethz.ch/en.html) supervised by [Prof. Florian Tramèr](https://floriantramer.com/). My research focuses on making AI systems safe(r). My research interests cover both, theoretical and empirical work, and include a diverse set of topics such as model evaluation, red-teaming, interpretability, reinforcement learning and science of deep learning.
+I am currently pursuing a PhD in Computer Science at [ETH Zurich](https://ethz.ch/en.html) supervised by [Prof. Florian Tramèr](https://floriantramer.com/). My research focuses on making AI systems safe(r). My research interests cover both, theoretical and empirical work, and include a diverse set of topics such as model evaluation, defining and measuring anthropomorphic concepts, interpretability, and science of deep learning.
 
 Before starting my PhD I obtained a BSc degree in Computer Science and a MSc degree in Data Science (both ETH Zurich) and completed research internships at the University of Cambridge and UC Berkeley.
