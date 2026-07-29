@@ -43,7 +43,8 @@ sections:
         </style>
         | | |
         | ------- | ----------- |
-        | **May 24, 2026**   | 📘 Our paper [Anthropomorphic Misalignment Research Needs Stronger Evidence](https://arxiv.org/abs/2606.07612) has been accepted as an **oral** to ICML 2026. See you in Seoul!  |
+        | **July 29, 2026**  | 📘 Happy to share a collaboration with Anthropic: [CryptanalysisBench: Can LLMs do Cryptanalysis?](https://arxiv.org/abs/2606.07612). See also our [website](https://cryptanalysis-bench.com/).  |
+        | **May 24, 2026**   | 📘 Our paper [Anthropomorphic Misalignment Research Needs Stronger Evidence](https://arxiv.org/abs/2606.07612) has been accepted as an **oral** to ICML 2026! |
         | **May 2, 2025**    | 🎓 I just started a PhD at ETH Zurich, supervised by [Florian Tramèr](https://floriantramer.com) |
         | **May 1, 2025**    | 📘 Our paper [The Perils of Optimizing Learned Reward Functions: Low Training Error Does Not Guarantee Low Regret](papers/safe-reward-model-optimization/) has been accepted as a conference paper to ICML 2025! |
         | **Feb 12, 2024**   | 🏅 I was awarded an [ETH medal](https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2024/02/eth-medals-for-masters-graduates.html) for my outstanding Master's thesis. |

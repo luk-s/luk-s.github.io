@@ -95,12 +95,12 @@ awards:
     awarder: ETH Zürich
     icon: ''
     summary: 'Honored with an ETH medal for my Master''s thesis "Detecting Failures of Superhuman AI Models".'
-  - title: 'Spotlight Paper @ Neurips SoLaR 2023 Workshop'
-    url: 'https://solar-neurips.github.io/'
-    date: '2023-12-10'
-    awarder: 'Neurips SoLaR 2023 Workshop'
+  - title: 'Oral Paper @ ICML 2026'
+    url: 'https://icml.cc/virtual/2026/poster/67238'
+    date: '2026-05-29'
+    awarder: 'ICML 2026'
     icon: ''
-    summary: 'Our paper "Evaluating Superhuman Models with Consistency Checks" was accepted as a Spotlight paper.'
+    summary: 'Our paper "Position: Anthropomorphic Misalignment Research Needs Stronger Evidence" was accepted as an Oral at ICML 2026.'
 ---
 
 ## About Me
